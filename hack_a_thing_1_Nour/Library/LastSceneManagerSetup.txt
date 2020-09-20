@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/hack_a_thing_1_Nour.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
