@@ -14,3 +14,7 @@ Nour Benmohamed, CS98.01, Hack-a-thing 1 20F
 **What didn’t work**:
  - I had my colliders working initially. Colliders are objects or areas that the main character cannot padd through. Instead it collides with them. At some point in my tutorial, some of my colliders stopped working and I could not figure out why.
  - I am a learn by do/hear/watch kind of person, so reading the tutorial in text was a bit tedious and not as productive as I anticipated.
+ 
+ 
+ **tutorial I followed**: 
+ https://learn.unity.com/project/ruby-s-2d-rpg?uv=2019.2&courseId=5c5c1e08edbc2a5465c7ec01
