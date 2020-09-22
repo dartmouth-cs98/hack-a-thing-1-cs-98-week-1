@@ -1,4 +1,6 @@
-Nour Benmohamed, Hack-a-thing 1 20F
+Nour Benmohamed, CS98.01, Hack-a-thing 1 20F
+
+
 
 **Short description of what you attempted to build**:
   - I attempted to build a game using Unity. I followed a tutorial that meant to show me how to design a world, add a character to it, add some form of damage, and some form of recovery, and some form of way to track health. 
